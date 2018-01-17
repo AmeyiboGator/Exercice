@@ -1,1 +1,1 @@
-Ce projet a pour obbjectif de me donner des bases sur JavaScript.
+Ce projet a pour objectif de me donner des bases sur JavaScript.
